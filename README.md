@@ -1,22 +1,10 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://dt-win.github.io/
-
-![GitHub stars](https://img.shields.io/github/stars/dt-win/dt-win.github.io/) 
-![GitHub forks](https://img.shields.io/github/forks/dt-win/dt-win.github.io/)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/dt-win/dt-win.github.io/commits/main)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://dt-win.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/david-tscherny/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+> https://dt-win.github.io
 
 ### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://dt-win.github.io" target="_blank"><img src="examples/preview.jpg">
-  </a>
-  </kbd>
-</p>
+![](examples/preview.png)
 
 :star: Star me on GitHub — it helps!
 
