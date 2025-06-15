@@ -4,7 +4,7 @@
 > https://dt-win.github.io
 
 ### Website Preview
-![](./examples/preview.JPG)
+![](./examples/preview.png)
 
 :star: Star me on GitHub — it helps!
 
