@@ -1431,6 +1431,44 @@
     <section id="contact" class="section scrollspy full-height">
       <h3 class="page-title white-text teal">Contact</h3>
       <div class="container">
+          <div class="cta-container">
+            <form class="cta-form" action="#" method="POST">
+              <h4>Contact Us</h4>
+
+              <label for="name">Name:</label>
+              <input type="text" id="name" name="name" required />
+
+              <label for="email">Email address:</label>
+              <input type="email" id="email" name="email" required />
+
+              <label for="phone">Phone number:</label>
+              <input type="tel" id="phone" name="phone" placeholder="(555) 123-4567" required />
+
+              <label for="message">Message:</label>
+              <textarea id="message" name="message" rows="4"></textarea>
+
+              <p class="disclosure">
+                Do you agree to receive text messages from <strong>INNOVESE LLC</strong>
+                sent from <strong>(801) 893-4908</strong>? Message frequency varies and may
+                include (Type of message content e.g. appointment reminders, service or order
+                information, promotional messages, etc.). Message and data rates may apply.
+                Reply STOP at any time to end or unsubscribe. For assistance, reply HELP or
+                contact support at <strong>(801) 893-4908</strong>.
+              </p>
+
+              <div class="checkbox-group">
+                <label>
+                  <input type="radio" name="sms_consent" value="yes" required />
+                  Yes, I agree to receive text messages from INNOVESE LLC sent from (801) 893-4908.
+                </label>
+                <label>
+                  <input type="radio" name="sms_consent" value="no" />
+                  No, I do not want to receive text messages from INNOVESE LLC.
+                </label>
+              </div>
+              <button type="submit" class="submit-btn">Submit</button>
+            </form>
+          </div>
         <p>
           <a aria-label="Call David" data-position="top" data-tooltip="Call David"
             class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i class="fa fa-phone"></i><a

@@ -692,3 +692,90 @@ small {
     background-position-x: 30%;
   }
 }
+
+.cta-container {
+  max-width: 600px;
+  padding: 25px 35px;
+  margin: 0 auto;
+  border-radius: 6
+}
+
+.cta-form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin: 10px 0 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+  font-size: 15px;
+  box-sizing: border-box;
+}
+
+textarea {
+  resize: vertical;
+}
+
+.disclosure {
+  font-size: 13px;
+  line-height: 1.5;
+  color: #444;
+  background-color: #f7f7f7;
+  padding: 10px;
+  border-left: 3px solid #4caf50;
+  margin-top: 15px;
+}
+
+.checkbox-group {
+  margin: 15px 0;
+}
+
+.checkbox-group label {
+  display: block;
+  font-weight: normal;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.checkbox-group label input {
+  position: unset !important;
+}
+
+.privacy {
+  font-size: 13px;
+  color: #333;
+}
+
+.privacy a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+.privacy a:hover {
+  text-decoration: underline;
+}
+
+.submit-btn {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+}
